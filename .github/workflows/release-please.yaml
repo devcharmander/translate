@@ -7,7 +7,6 @@ jobs:
   release-please:
     runs-on:
       - self-hosted
-      - ubuntu
     steps:
       - uses: google-github-actions/release-please-action@latest
         with:
