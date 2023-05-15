@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/devcharmander/translate/compare/v1.0.0...v1.0.1) (2023-05-15)
+
+
+### Miscellaneous
+
+* cleanup ([cdc700d](https://github.com/devcharmander/translate/commit/cdc700d0390f40e3564764a7a0c5a215f8108f89))
+* main.go ([ac272bc](https://github.com/devcharmander/translate/commit/ac272bcffefbeb55a158e86edd40f9be059d9001))
+
 ## 1.0.0 (2023-05-07)
 
 
